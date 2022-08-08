@@ -16,7 +16,6 @@ body {
   padding-right: 20px;
   padding-left: 20px;
   align-items: center;
-  
 }
 
 .flex-container .right-item {
@@ -69,5 +68,24 @@ body {
 
 .sign-up:hover {
   background-color: rgb(17, 65, 95);
+}
+
+.flex-medium-container {
+  height: 140px;
+  padding: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+
+.recipe-img {
+  border-radius: 25px;
+  border: 2px solid black;
+  box-shadow: 2px 2px;
+}
+
+.center-text {
+  text-align: center;
 }
 
