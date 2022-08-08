@@ -92,7 +92,7 @@ body {
 .bg-grey {
   background: #f2f2f2;
   padding-top: 90px;
-  padding-bottom: 50px;
+  padding-bottom: 40px;
   margin-top: 50px;
 }
 
@@ -108,4 +108,20 @@ body {
   padding-right: 300px;
   padding-top: 25px;
   font: italic small-caps bold 18px/30px Georgia, serif;
+}
+
+.call-action {
+  background-color: rgb(67, 133, 173);
+  margin-right: 300px;
+  margin-left: 300px;
+  margin-bottom: 65px;
+  margin-top: 65px;
+  border-radius: 7px;
+  padding-right: 50px;
+}
+
+footer {
+  background-color: #bfbfbf;
+  padding: 30px;
+  text-align: center;
 }
