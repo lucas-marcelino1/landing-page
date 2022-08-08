@@ -82,10 +82,30 @@ body {
 .recipe-img {
   border-radius: 25px;
   border: 2px solid black;
-  box-shadow: 2px 2px;
+  box-shadow: 1px 1px;
 }
 
 .center-text {
   text-align: center;
 }
 
+.bg-grey {
+  background: #f2f2f2;
+  padding-top: 90px;
+  padding-bottom: 50px;
+  margin-top: 50px;
+}
+
+.quote {
+  text-align: center;
+  padding-left: 300px;
+  padding-right: 300px;
+  font-size: larger;
+}
+
+.author {
+  text-align: right;
+  padding-right: 300px;
+  padding-top: 25px;
+  font: italic small-caps bold 18px/30px Georgia, serif;
+}
