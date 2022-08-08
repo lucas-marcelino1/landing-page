@@ -41,13 +41,11 @@ body {
   color: black;
   width: 100%;
   font-size: 32px;
-  padding-left: 90px;
   margin-right: 250px;
   
 }
 
 .flex-container-column p {
-  padding-left: 90px;
   margin-top: -30px;
 }
 
@@ -59,5 +57,17 @@ body {
 
 .header {
   background-color: #bfbfbf;
+}
+
+.sign-up {
+  background-color: rgb(67, 133, 173);
+  color: white;
+  border: solid white 1px;
+  font-family: 'Courier New', Courier, monospace;
+  padding: 7px 15px;
+}
+
+.sign-up:hover {
+  background-color: rgb(17, 65, 95);
 }
 
